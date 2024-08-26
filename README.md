@@ -1,7 +1,7 @@
 
-# Face Recognition using Colab and Teachable Machine
+# Face Recognition
 
-This project leverages Google Colab, OpenCV, and a Keras-based model trained using Google's Teachable Machine to create a real-time face recognition system. The system captures images, trains a model, and then uses the model to recognize faces.
+This project leverages OpenCV, and a Keras-based model trained using Google's Teachable Machine to create a real-time face recognition system. The system captures images, trains a model, and then uses the model to recognize faces.
 
 
 
