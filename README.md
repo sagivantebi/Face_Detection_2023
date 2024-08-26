@@ -3,6 +3,12 @@
 
 This project leverages Google Colab, OpenCV, and a Keras-based model trained using Google's Teachable Machine to create a real-time face recognition system. The system captures images, trains a model, and then uses the model to recognize faces.
 
+
+
+![facere](https://github.com/user-attachments/assets/e8397104-2850-41ef-af5a-84f9716fc972)
+
+
+
 ## Features
 
 - **Image Capture**: Capture images in real-time using your webcam directly from Google Colab.
